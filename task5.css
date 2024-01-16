@@ -1,0 +1,32 @@
+.row{
+margin: 10px;
+padding:10px;
+}
+
+	
+	.col-12 {
+		background-color:lightseagreen;
+		color:white;
+		text-align:center;
+
+		padding:50px;
+		margin:50px;
+	}
+	.white{
+		color:white;
+	}
+	
+input[type=number]{
+	background-color:darkblue;
+	color:white;
+	padding:7px;
+
+}
+
+.btn{
+	background-color:darkblue;
+	color:white;
+	padding:7px;
+
+
+}
